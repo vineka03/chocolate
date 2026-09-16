@@ -1,0 +1,6 @@
+{
+  "name": "Modern Chocolate Shop",
+  "description": "A professional responsive chocolate shop and production atelier with dashboard, task management, projects, priorities, progress analytics, search, and AI assistant chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
